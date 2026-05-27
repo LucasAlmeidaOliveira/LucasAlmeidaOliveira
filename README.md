@@ -1,5 +1,4 @@
-Currently studying Systems Analysis and Development at FIAP and always seeking to learn new technologies. 
-
+FIAP ADS student passionate about technology and continuous learning.
 <!--
 **LucasAlmeidaOliveira/LucasAlmeidaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
