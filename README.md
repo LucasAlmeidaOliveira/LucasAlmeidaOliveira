@@ -1,4 +1,4 @@
-## Hi there 👋
+Currently studying Systems Analysis and Development at FIAP and always seeking to learn new technologies. 
 
 <!--
 **LucasAlmeidaOliveira/LucasAlmeidaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
